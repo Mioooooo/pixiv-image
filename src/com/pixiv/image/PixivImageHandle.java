@@ -16,7 +16,7 @@ import java.util.Map;
  * @email ywj1134915444@Gmail.com
  * @description: PixivImageHandle
  * @compyight: Compyight (c) 2020
- * @company: 福建索天信息科技股份有限公司
+
  * @projectName pixiv_image
  * @date 2020/5/3 18:43
  */
